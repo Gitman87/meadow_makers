@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MeadowMakers.App/MeadowMakers.App.csproj" />
+  <Project Path="MeadowMakers.Core/MeadowMakers.Core.csproj" />
+  <Project Path="MeadowMakers.Tests/MeadowMakers.Tests.csproj" />
+</Solution>
